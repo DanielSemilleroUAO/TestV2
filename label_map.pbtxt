@@ -1,0 +1,54 @@
+item {
+    id: 1
+    name: 'bolsas_te'
+}
+
+item {
+    id: 2
+    name: 'botella_plastica'
+}
+
+item {
+    id: 3
+    name: 'botella_vidrio'
+}
+
+item {
+    id: 4
+    name: 'carton_alimento'
+}
+
+item {
+    id: 5
+    name: 'carton_caja'
+}
+
+item {
+    id: 6
+    name: 'metal_latas'
+}
+
+item {
+    id: 7
+    name: 'papel'
+}
+
+item {
+    id: 8
+    name: 'residuo_banano'
+}
+
+item {
+    id: 9
+    name: 'residuo_huevo'
+}
+
+item {
+    id: 10
+    name: 'residuo_manzana'
+}
+
+item {
+    id: 11
+    name: 'residuo_naranja_mandarina'
+}
